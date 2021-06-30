@@ -1,0 +1,37 @@
+[
+    {
+		"Name": "Ahmed ";
+       "ID": "001";
+       "department": "HR";
+       "image":  "",
+    },
+	  {
+		"Name": "Nore";
+       "ID": "002";
+       "department": "HR";
+       "image":  "",
+    },
+   
+     {
+		"Name": "Fisal";
+       "ID": "003";
+       "department": "HR";
+       "image":  "",
+    },
+   
+     {
+		"Name": "Mark";
+       "ID": "004";
+       "department": "Information department";
+       "image":  "",
+    },
+   
+     {
+		"Name": "Bader";
+       "ID": "005";
+       "department": "Marketing department";
+       "image":  "",
+    },
+   
+   
+]
